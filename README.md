@@ -1,1 +1,1 @@
-# FairEduNet
+This python library has been modified based on AIF360 and add support for three datasets in the education domain and to add a new algorithm we propose: FairEduNet.
